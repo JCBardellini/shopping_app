@@ -1,0 +1,17 @@
+img {
+    width: 100px;
+}
+.card {
+    max-width: 200px;
+    padding: 20px;
+    margin: 20px;
+    background-color: beige;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px grey;
+    max-height: 400px;
+    overflow: hidden;
+}   
+.card div {
+    max-height: 160px;
+    overflow: scroll;
+}

@@ -1,0 +1,4 @@
+#footer {
+    background-color: blueviolet;
+    grid-column: span 2;
+}
